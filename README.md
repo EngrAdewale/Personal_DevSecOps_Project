@@ -1,12 +1,12 @@
-# Ìª°Ô∏è DevSecOps (Development + Security + Operations)
+# DevSecOps (Development + Security + Operations)
 
 It's a way of building software where **developers**, **security people**, and **IT teams** work together from the start ‚Äî to make apps **faster and safer**.
 
 ---
 
-## Ì¥ë Key Features
+##   Key Features
 
-### ‚öôÔ∏è CI/CD (Continuous Integration / Continuous Delivery)
+### CI/CD (Continuous Integration / Continuous Delivery)
 
 This is how developers:
 
@@ -19,7 +19,7 @@ This is how developers:
 
 ---
 
-## Ì∑± Infrastructure as Code (IaC)
+##  Infrastructure as Code (IaC)
 
 Instead of setting up servers manually, we write **code** to do it.  
 It‚Äôs like writing a **recipe** for your computers.
@@ -29,7 +29,7 @@ It‚Äôs like writing a **recipe** for your computers.
 
 ---
 
-## Ì≥¶ Containerization
+##  Containerization
 
 This means putting apps in a **box (container)** so they work the same anywhere.
 
@@ -37,7 +37,7 @@ This means putting apps in a **box (container)** so they work the same anywhere.
 
 ---
 
-## ÌæõÔ∏è Orchestration (Kubernetes)
+## Orchestration (Kubernetes)
 
 If you have **many containers**, **Kubernetes** is like a manager that:
 
@@ -47,7 +47,7 @@ If you have **many containers**, **Kubernetes** is like a manager that:
 
 ---
 
-## Ì≥ä Monitoring
+## Monitoring
 
 To keep everything healthy, we need to **watch our systems**.
 
@@ -57,7 +57,7 @@ To keep everything healthy, we need to **watch our systems**.
 
 ---
 
-## Ì∫Ä Deployment Strategies (Ways to Release Updates)
+##  Deployment Strategies (Ways to Release Updates)
 
 - **Rolling Update**: Replace old version little by little, no downtime  
 - **Blue-Green**: Keep two versions (Blue = Old, Green = New), switch when ready  
